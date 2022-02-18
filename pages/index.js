@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="bathstreetbabes.com" />
         <p className="description">
-          <code>xxx content coming soon</code>
+          <code>xxx content coming soon 👀</code>
         </p>
       </main>
 
